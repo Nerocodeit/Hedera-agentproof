@@ -1,0 +1,30 @@
+# Environment variables (never commit secrets)
+.env
+
+# Node.js dependencies and build files
+node_modules/
+npm-debug.log
+yarn-debug.log
+yarn-error.log
+.pnp.*
+.yarn/*
+.yarnrc.yml
+
+# Vercel / deployment artifacts
+.vercel
+.next/
+dist/
+build/
+
+# Editor / OS files
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+.idea/
+.vscode/
+*.code-workspace
+
+# Logs and temporary files
+*.log
+*.tmp
