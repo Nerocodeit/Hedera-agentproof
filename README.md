@@ -46,6 +46,15 @@ This demonstrates AI-driven agents that think, decide, and transact on-chain wit
 
 5. Open http://localhost:3000
 
+## Demo / Test Input Example
+
+Use this real-world-style input to see a  report in action:
+Project Name: MoonYield
+Type: DeFi staking platform
+Blockchain: Ethereum
+Anonymous team
+Promising 40% APY
+No public audit
 
 Hackathon Relevance
 
